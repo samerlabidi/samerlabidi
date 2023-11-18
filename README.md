@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Samer Labidi, a student at Tunis Business School majoring in business analytics and minoring in IT. 
 
 <!--
 **samerlabidi/samerlabidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
